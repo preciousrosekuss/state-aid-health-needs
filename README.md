@@ -1,4 +1,4 @@
-# Maryland Elder Health Analysis
+# Maryland Elder Population Health Analysis
 This project was developed for BMI 6318: Big Data in Biomedical Informatics as a final capstone. It focuses on analyzing synthetic patient data to identify areas where the State of Maryland could provide targeted healthcare support for its older adult population.
 
 ## Overview
