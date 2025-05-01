@@ -35,5 +35,3 @@ Statistical modeling
 Synthetic data provided by Synthea™, an open-source synthetic patient generator from MITRE.
 
 Synthea™ is an open-source, synthetic patient generator that models the medical history of synthetic patients.
-
-MITRE Corporation
